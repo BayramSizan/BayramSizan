@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BayramSizan
 - 👀 I’m interested in learning new tools and explore new technologies.
-- 🌱 I’m currently learning Data Science and Machine Learning.
+- 🌱 I’m currently working as a Data Scientist and using Machine Learning Models.
 - 💞️ I’m looking to collaborate on these subjects.
 - 📫 How to reach me https://www.linkedin.com/in/bayram-s%C4%B1zan-34734322b/
 
